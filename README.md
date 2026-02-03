@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **AI/ML Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 📫 How to reach me **viveknegi230384@gmail.com**
 
